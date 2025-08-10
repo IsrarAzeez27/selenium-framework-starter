@@ -9,6 +9,12 @@ A Java-based Selenium test automation framework built for designing, executing, 
 - **Maven** for dependency management
 - Configurable test data and environment setup
 
+## 🛠 Prerequisites
+- Java JDK 8 or later  
+- Maven 3+  
+- IDE (Eclipse / IntelliJ IDEA)  
+- Chrome browser + ChromeDriver
+
 ## 📂 Project Structure
 ```plaintext
 SeleniumFrameworkDesign/
@@ -17,10 +23,3 @@ SeleniumFrameworkDesign/
 │   └── test/java/        # Test scripts
 │-- testng.xml            # TestNG configuration
 │-- pom.xml               # Maven dependencies
-
-
-## 🛠 Prerequisites
-- Java JDK 8 or later  
-- Maven 3+  
-- IDE (Eclipse / IntelliJ IDEA)  
-- Chrome browser + ChromeDriver
