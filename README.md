@@ -10,11 +10,13 @@ A Java-based Selenium test automation framework built for designing, executing, 
 - Configurable test data and environment setup
 
 ## 📂 Project Structure
+```plaintext
 SeleniumFrameworkDesign/
-│-- src/main/java/ # Core framework code & utilities
-│-- src/test/java/ # Test scripts
-│-- testng.xml # TestNG configuration
-│-- pom.xml # Maven dependencies
+│-- src/
+│   ├── main/java/        # Core framework code & utilities
+│   └── test/java/        # Test scripts
+│-- testng.xml            # TestNG configuration
+│-- pom.xml               # Maven dependencies
 
 
 ## 🛠 Prerequisites
